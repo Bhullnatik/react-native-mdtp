@@ -1,0 +1,18 @@
+{
+  "name": "react-native-mdtp",
+  "version": "0.1.0",
+  "description": "Material Date/Time Picker for React-Native (Android)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bhullnatik/react-native-mdtp"
+  },
+  "keywords": [
+    "react-native",
+    "android",
+    "react-component",
+    "date-picker",
+    "time-picker"
+  ],
+  "author": "Jimmy Mayoukou <Bhullnatik@gmail.com>",
+  "license": "MIT"
+}
